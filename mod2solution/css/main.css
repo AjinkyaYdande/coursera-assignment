@@ -1,0 +1,198 @@
+	*{
+			margin:0;
+			padding:0;
+		}
+
+/* ------------------- desktop --------------*/
+@media only screen and (min-width: 992px) {
+/*  body {
+    background-color:dodgerblue;
+  }*/
+
+.cat{
+			margin-top: 30px;
+			margin-right: 10%;
+			background-color: #999999;
+			border: 1px solid black;
+			/*float: left;*/
+			box-sizing: border-box;
+			margin-left: 30px;
+			width: 20%;
+		}
+		p{
+			margin-top: 30px;
+			/*margin-right: 30px;*/
+			padding: 8px;
+			
+			/*width: 400px;*/
+		}
+		h3{
+			padding: 2px;
+			float: right;
+			text-align: center;
+			width:40%;
+			height: 26px;
+			color: #fff;
+			border:1px solid black;
+			/*background-color: red;*/
+		}
+
+
+}
+
+/* ------------------- tab --------------*/
+@media only screen and (max-width: 991px) and (min-width: 768px)  {
+/*  body {
+    background-color:red;
+  }*/
+.cat{
+			margin-top: 30px;
+			margin-right: 2%;
+			background-color: #999999;
+			border: 1px solid black;
+			float: left;
+			box-sizing: border-box;
+			
+			/*width: 50%;*/
+		}
+		p{
+			margin-top: 30px;
+			/*margin-right: 30px;*/
+			padding: 8px;
+			box-sizing: border-box;
+			
+			/*width: 400px;*/
+		}
+		h3{
+			padding: 2px;
+			float: right;
+			text-align: center;
+			width:40%;
+			height: 26px;
+			color: #fff;
+			box-sizing: border-box;
+			border:1px solid black;
+			/*background-color: red;*/
+		}
+  
+  #chic{
+  	width: 46%;
+  	margin-left: 18px;
+  	box-sizing: border-box;
+  }
+  #beef{
+  	width: 46%;
+  	margin-left: 18px;
+  	box-sizing: border-box;
+  }
+  #sushi{
+  	width: 95%;
+  	height: 180px;
+  	box-sizing: border-box;
+  }
+}
+
+
+/* ------------------- mobile --------------*/
+@media only screen and (max-width:767px) and (min-width:10px){
+	/* body {
+    background-color:green;
+  }*/
+  h1{
+			margin-top: 20px;
+			text-align: center;
+		}
+.cat{
+			margin-top: 70px;
+			background-color: #999999;
+			border: 1px solid black;	
+			box-sizing: border-box;
+			margin-left: 0px;
+			width: 80%;
+		}*/
+		p{
+			margin-top: 30px;
+			/*margin-right: 30px;*/
+			padding: 8px;
+			box-sizing: border-box;
+			
+			/*width: 400px;*/
+		}
+		h3{
+			padding: 2px;
+			float: right;
+			text-align: center;
+			width:40%;
+			height: 26px;
+			color: #fff;
+			box-sizing: border-box;
+			border:1px solid black;
+			
+		}
+  
+  #chic{
+  	width: 90%;
+  	position: relative;
+  	left: 3%;
+
+  	box-sizing: border-box;
+  }
+  #beef{
+  	width: 90%;
+  	position: relative;
+  	left: 3%;
+  	box-sizing: border-box;
+  }
+  #sushi{
+  	width: 90%;
+  	position: relative;
+  	left: 3%;
+  	/*height: 180px;*/
+  	box-sizing: border-box;
+  }
+}
+
+
+
+		h1{
+			margin-top: 20px;
+			text-align: center;
+		}
+		.cat{
+			margin: 0;
+			position:relative;
+			margin-top: 30px;
+			margin-right: 1%;
+			background-color: #999999;
+			border: 1px solid black;
+			float: left;
+			box-sizing: border-box;
+			margin-left: 2%;
+			width: 30%;
+		}
+		p{
+			margin-top: 30px;
+			/*margin-right: 30px;*/
+			padding: 8px;
+			
+			/*width: 400px;*/
+		}
+		h3{
+			padding: 2px;
+			float: right;
+			text-align: center;
+			width:40%;
+			height: 26px;
+			color: #fff;
+			border:1px solid black;
+			/*background-color: red;*/
+		}
+	.chic{
+		background-color: red;
+	}
+	.beef{
+		background-color: green;
+	}
+	.sushi{
+		background-color: blue;
+	}
