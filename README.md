@@ -1,4 +1,4 @@
-## Coursera Assignment no.2
+## Coursera Assignments
 
 
 ### Markdown
