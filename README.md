@@ -1,8 +1,3 @@
-## Coursera Assignments
-
-
-### Markdown
-
 ## Here you can find solution of coursera assignments
 
 - Module 2 Solution
